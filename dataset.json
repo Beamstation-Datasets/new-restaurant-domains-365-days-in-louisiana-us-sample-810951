@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Louisiana, US",
+  "export_job_id": "5230955c-6a6c-4d20-9c14-519fb6a8f887",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 810951,
+  "location_name": "Louisiana",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-louisiana-us-sample-810951",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/810951/beamstation_810951_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 34,
+  "sample_sha256": "18b85f08f15479e4bd60a36d4fba4c268430edc3c67c127cc164c47719fb552a",
+  "sample_size_bytes": 134483,
+  "total_records": 340,
+  "updated_at": "2026-04-09T20:52:00.214492+00:00"
+}
